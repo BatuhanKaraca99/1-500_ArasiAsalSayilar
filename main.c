@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  short bulundu=0;
   printf("1-500 sayı aralığında asal sayılar: ");
   printf("2 3 5 7 11 13 17 19 23 "); //9 tane
         for(int a=12;a<=500;a++)
